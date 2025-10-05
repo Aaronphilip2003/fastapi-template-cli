@@ -5,6 +5,11 @@ description = "A CLI tool for quickstarting FastAPI projects"
 authors = [{ name = "Aaron Philip", email = "aaronphilip2003@gmail.com"}]
 dependencies = ["click"]
 
+
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
 [project.scripts]
 create-fastapi-app = "fastapi_template.cli:main"
 

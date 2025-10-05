@@ -1,6 +1,0 @@
-Metadata-Version: 2.4
-Name: fastapi-template-cli
-Version: 0.1.0
-Summary: A CLI tool for quickstarting FastAPI projects
-Author-email: Aaron Philip <aaronphilip2003@gmail.com>
-Requires-Dist: click
