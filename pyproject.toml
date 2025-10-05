@@ -1,0 +1,13 @@
+[project]
+name = "fastapi-template-cli"
+version = "0.1.0"
+description = "A CLI tool for quickstarting FastAPI projects"
+authors = [{ name = "Aaron Philip", email = "aaronphilip2003@gmail.com"}]
+dependencies = ["click"]
+
+[project.scripts]
+create-fastapi-app = "fastapi_template.cli:main"
+
+[tool.setuptools.package-data]
+"fastapi_template" = ["templates/**/*"]
+

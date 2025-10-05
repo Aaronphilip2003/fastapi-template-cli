@@ -1,0 +1,16 @@
+README.md
+pyproject.toml
+fastapi_template/cli.py
+fastapi_template/template/main.py
+fastapi_template/template/core/__init__.py
+fastapi_template/template/llm/__init__.py
+fastapi_template/template/models/__init__.py
+fastapi_template/template/schemas/__init__.py
+fastapi_template/template/tests/__init__.py
+fastapi_template/template/utils/__init__.py
+fastapi_template_cli.egg-info/PKG-INFO
+fastapi_template_cli.egg-info/SOURCES.txt
+fastapi_template_cli.egg-info/dependency_links.txt
+fastapi_template_cli.egg-info/entry_points.txt
+fastapi_template_cli.egg-info/requires.txt
+fastapi_template_cli.egg-info/top_level.txt
