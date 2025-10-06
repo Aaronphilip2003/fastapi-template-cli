@@ -3,4 +3,21 @@ Name: fastapi-minimal-cli
 Version: 0.1.0
 Summary: A CLI tool for quickstarting FastAPI projects
 Author-email: Aaron Philip <aaronphilip2003@gmail.com>
+Description-Content-Type: text/markdown
 Requires-Dist: click
+
+# ⚡ FastAPI Minimal CLI
+
+A lightweight command-line tool to **instantly scaffold a FastAPI project** with a clean, ready-to-code structure.
+
+This CLI bootstraps everything you need — from folder layout to Docker setup — so you can focus on writing APIs, not boilerplate.
+
+---
+
+## 🚀 Installation
+
+```bash
+pip install fastapi-minimal-cli
+
+
+create-fastapi-app [project-name]
