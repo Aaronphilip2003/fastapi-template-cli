@@ -1,6 +1,6 @@
 [project]
 name = "fastapi-minimal-cli"
-version = "0.1.0"
+version = "0.1.1"
 description = "A CLI tool for quickstarting FastAPI projects"
 authors = [{ name = "Aaron Philip", email = "aaronphilip2003@gmail.com"}]
 readme = "README.md"
